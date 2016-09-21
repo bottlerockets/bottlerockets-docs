@@ -3,7 +3,8 @@
         "highlight2",
         "edit-link",
         "simple-page-toc",
-        "injection"
+        "injection",
+        "disqus"
     ],
     "pluginsConfig": {
         "injection": {
