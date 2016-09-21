@@ -24,7 +24,7 @@
   background-position: center center;
   background-repeat: no-repeat;
   margin: 10px;
-  min-height: 150px;
+  height: 150px;
 }
 
 .book .book-summary ul.summary li a.custom-link:hover {
