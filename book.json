@@ -2,8 +2,7 @@
     "gitbook": "2.x.x",
     "plugins": [
         "edit-link",
-        "disqus",
-        "highlight"
+        "disqus"
     ],
     "pluginsConfig": {
     }
