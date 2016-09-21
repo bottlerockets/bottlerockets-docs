@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Overview](overview.md)
-* [CLI](cli.md)
+* [CLI Usage](cli.md)
 
