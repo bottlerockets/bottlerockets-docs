@@ -1,6 +1,6 @@
 # Summary
 
-* [Intro](README.md)
+* [Introduction](README.md)
 * [Overview](overview.md)
 * [CLI](cli.md)
 
