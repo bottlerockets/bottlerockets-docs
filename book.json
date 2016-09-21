@@ -1,7 +1,8 @@
 {
     "plugins": [
         "highlight2",
-        "edit-link"
+        "edit-link",
+        "simple-page-toc"
     ],
     "pluginsConfig": {}
 }
