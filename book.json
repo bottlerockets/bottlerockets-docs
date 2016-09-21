@@ -5,5 +5,10 @@
         "simple-page-toc",
         "injection"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "injection": {
+            "js": "./js/format-code.js",
+            "css": ""
+        }
+    }
 }
