@@ -17,14 +17,14 @@
 
 .book .book-summary ul.summary li a:hover {
   color: #444;
-  background: #c9efff;
+  background-color: #c9efff;
   text-decoration: none;
 }
 
 
 .book .book-summary ul.summary li.active>a {
   color: #333;
-  background: #f4f4f4;
+  background-color: #f4f4f4;
   text-decoration: none;
 }
 
@@ -34,6 +34,7 @@
   color: rgba(0, 0, 0, 0);
   text-indent: -99999px;
   display: block;
+  background-color: #fff;
   background-image: url('https://cldup.com/6434u5RKNS.png');
   background-position: center center;
   background-size: contain;
