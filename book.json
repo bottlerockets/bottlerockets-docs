@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "-highlight2",
         "-edit-link",
         "-simple-page-toc",
         "injection",
