@@ -4,7 +4,7 @@
 
 Bottlerockets manages and launches your *bottlerocket processes*. A bottlerocket process is a node process that runs your environment specific tasks and streams test results to your server in JSON format or to your terminal in a mocha spec format. Bottlerockets can also be optimized to run tasks quicker by running multiple tasks in the same process, though this feature is optional. Bottlerockets is built to scale and comes with load balancing algorithms to manage your tasks.
 
-# Usage
+## Use Cases
 
 - Run a persistent task queue server with mocha-filled results
 - Run tasks with expensive setup/teardown operations quickly
