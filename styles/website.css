@@ -1,5 +1,9 @@
 /* CSS for Bottlerockets Docs */
 
+.book.font-family-1 {
+  font-family: "Lato", "Helvetica Neue", arial, sans-serif;
+}
+
 /* Sidebar background */
 .book .book-summary {
   background: #FFFFFF;
@@ -76,7 +80,12 @@
 
 /* Page Titles */
 .book .book-body .page-wrapper .page-inner section.normal h1 {
-  color: #75a;
+  color: #444;
+  font-size: 2.8em;
+  letter-spacing: -0.015em;
+  padding-bottom: 0.2em;
+  border-bottom: 2px solid #f4f4f4;
+  font-weight: 300;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal h2 {
