@@ -1,8 +1,16 @@
 {
-    "gitbook": "2.x.x",
+    "gitbook": "3.x.x",
     "plugins": [
         "disqus",
+        "theme-default",
         "editlink"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "editlink": {
+            "base": "https://github.com/bottlerockets/bottlerockets/tree/master/"
+        },
+        "disqus": {
+            "shortName": "bottlerockets"
+        }
+    }
 }

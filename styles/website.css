@@ -1,6 +1,6 @@
 /* CSS for Bottlerockets Docs */
 
-.book.font-family-1 {
+.book, .book.font-family-1, .book.font-family-2 {
   font-family: "Lato", "Helvetica Neue", arial, sans-serif;
 }
 
