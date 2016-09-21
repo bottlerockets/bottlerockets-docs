@@ -4,16 +4,13 @@
         "edit-link",
         "injection",
         "disqus",
-        "highlight"
+        "highlight",
+        "circosjs"
     ],
     "pluginsConfig": {
         "injection": {
             "js": "./js/format-code.js",
             "css": ""
-        },
-        "-disqus": {
-            "shortName": "Bottlerockets",
-            "useIdentifier": true
         }
     }
 }
