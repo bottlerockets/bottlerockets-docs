@@ -115,3 +115,7 @@
 .book .book-body .page-wrapper .page-inner section.normal pre .hljs-keyword, .book .book-body .page-wrapper .page-inner section.normal code .hljs-keyword, .book .book-body .page-wrapper .page-inner section.normal pre .javascript .hljs-function, .book .book-body .page-wrapper .page-inner section.normal code .javascript .hljs-function {
   color: #1aa;
 }
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-number, .book .book-body .page-wrapper .page-inner section.normal code .hljs-number, .book .book-body .page-wrapper .page-inner section.normal pre .hljs-preprocessor, .book .book-body .page-wrapper .page-inner section.normal code .hljs-preprocessor, .book .book-body .page-wrapper .page-inner section.normal pre .hljs-pragma, .book .book-body .page-wrapper .page-inner section.normal code .hljs-pragma, .book .book-body .page-wrapper .page-inner section.normal pre .hljs-built_in, .book .book-body .page-wrapper .page-inner section.normal code .hljs-built_in, .book .book-body .page-wrapper .page-inner section.normal pre .hljs-literal, .book .book-body .page-wrapper .page-inner section.normal code .hljs-literal, .book .book-body .page-wrapper .page-inner section.normal pre .hljs-params, .book .book-body .page-wrapper .page-inner section.normal code .hljs-params, .book .book-body .page-wrapper .page-inner section.normal pre .hljs-constant, .book .book-body .page-wrapper .page-inner section.normal code .hljs-constant {
+  color: #c33;
+}
