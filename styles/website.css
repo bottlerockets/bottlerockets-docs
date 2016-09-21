@@ -20,7 +20,7 @@
 .book .book-summary ul.summary li a.custom-link,
 .book .book-summary ul.summary li a.custom-link:hover {
   color: rgba(0, 0, 0, 0);
-  text-indent: -99999;
+  text-indent: -99999px;
   display: block;
   background-image: url('https://cldup.com/6434u5RKNS.png');
   background-position: center center;
