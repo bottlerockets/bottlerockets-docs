@@ -4,11 +4,5 @@
         "disqus",
         "editlink"
     ],
-    "pluginsConfig": {
-        "editlink": {
-            "base": "https://github.com/bottlerockets/bottlerockets-docs/blob/master/",
-            "label": "Edit This Page",
-            "multilingual": "false"
-        }
-    }
+    "pluginsConfig": {}
 }
