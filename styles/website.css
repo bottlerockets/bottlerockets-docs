@@ -90,7 +90,6 @@
 }
 
 .book .book-body .page-wrapper .page-inner section.normal pre, .book .book-body .page-wrapper .page-inner section.normal code {
-  font-size: 1.2em;
   background: #fff;
   border: 1px solid #ccc;
   border-radius: 5px;
@@ -103,6 +102,7 @@
   box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2);
 }
 .book .book-body .page-wrapper .page-inner section.normal pre, .book .book-body .page-wrapper .page-inner section.normal pre>code {
+  font-size: 1.2em;
   background: #fff;
   border-width: 0;
   border-radius: 0;
