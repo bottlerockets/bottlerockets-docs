@@ -4,8 +4,7 @@
         "edit-link",
         "injection",
         "disqus",
-        "highlight",
-        "circosjs"
+        "highlight"
     ],
     "pluginsConfig": {
         "injection": {
