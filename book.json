@@ -2,14 +2,9 @@
     "gitbook": "2.x.x",
     "plugins": [
         "edit-link",
-        "injection",
         "disqus",
         "highlight"
     ],
     "pluginsConfig": {
-        "injection": {
-            "js": "./js/format-code.js",
-            "css": ""
-        }
     }
 }
