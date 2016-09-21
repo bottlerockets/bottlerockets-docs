@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "highlight2"
+        "highlight2",
+        "edit-link"
     ],
     "pluginsConfig": {}
 }
