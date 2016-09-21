@@ -4,7 +4,7 @@
   var i = 0;
   for (; i < codes.length; i++) {
     codes[i].innerHTML = codes[i].innerHTML.replace(/([\[\]\{\}\(\)])/g, function (f, m) {
-      return '<strong>' + m + '</strong';
+      return '<strong>' + m + '</strong>';
     })
   }
 }(this, document))
