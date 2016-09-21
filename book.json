@@ -4,7 +4,8 @@
         "-edit-link",
         "-simple-page-toc",
         "injection",
-        "-disqus"
+        "-disqus",
+        "highlight"
     ],
     "pluginsConfig": {
         "injection": {
