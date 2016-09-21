@@ -7,7 +7,7 @@
     ],
     "pluginsConfig": {
         "editlink": {
-            "base": "https://github.com/bottlerockets/bottlerockets/tree/master/"
+            "base": "https://github.com/bottlerockets/bottlerockets-docs/tree/master/"
         },
         "disqus": {
             "shortName": "bottlerockets"
