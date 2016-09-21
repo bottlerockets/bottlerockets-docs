@@ -16,8 +16,8 @@
 }
 
 .book .book-summary ul.summary li a:hover {
-  color: rgba(255,255,255,0.9);
-  background: #73a;
+  color: #444;
+  background: #c9efff;
   text-decoration: none;
 }
 
