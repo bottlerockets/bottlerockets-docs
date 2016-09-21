@@ -20,7 +20,7 @@
 .book .book-summary ul.summary li a.custom-link {
   color: rgba(0, 0, 0, 0);
   background-image: url('https://avatars2.githubusercontent.com/u/22184002?v=3&s=200');
-  background-size: 90%;
+  background-position: center center;
   background-repeat: no-repeat;
   margin: 10px;
   min-height: 150px;
