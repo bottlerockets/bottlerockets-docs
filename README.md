@@ -1,6 +1,4 @@
-# Overview
-
-
+# Introduction
 
 **Bottlerockets** is a BDD task framework for streaming task results with [Mocha](https://mochajs.org/) and [Chai](http://chaijs.com/). Bottlerockets can be used as a CLI tool or a task queue server to stream human readable statusses of tasks and their JSON results. Bottlerockets creates a CLI and REPL interface for your tasks for simpler debugging and improvements to your development workflow.
 
