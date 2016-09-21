@@ -2,6 +2,6 @@
   Bottlerockets
 </h1>
 
-> Mocha-Filled Task Queue
+> Bottlerockets is scalable and optimized node task framework with BDD-style results
 
 [wip]
