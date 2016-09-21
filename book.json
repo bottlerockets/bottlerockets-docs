@@ -3,15 +3,15 @@
         "-highlight2",
         "-edit-link",
         "-simple-page-toc",
-        "-injection",
-        "disqus"
+        "injection",
+        "-disqus"
     ],
     "pluginsConfig": {
-        "-injection": {
+        "injection": {
             "js": "./js/format-code.js",
             "css": ""
         },
-        "disqus": {
+        "-disqus": {
             "shortName": "Bottlerockets",
             "useIdentifier": true
         }
