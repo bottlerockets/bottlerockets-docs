@@ -25,6 +25,7 @@
 .book .book-summary ul.summary li.active>a {
   color: #333;
   background: #f4f4f4;
+  text-decoration: none;
 }
 
 /* Sidebar Title */
