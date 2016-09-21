@@ -1,4 +1,4 @@
-# CLI
+# CLI Usage
 
 Initialize `.rockets.js` in the root of your project directory:
 
