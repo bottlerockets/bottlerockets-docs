@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "highlight"
+        "-highlight"
     ],
     "pluginsConfig": {}
 }
