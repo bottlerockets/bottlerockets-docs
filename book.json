@@ -3,11 +3,11 @@
         "-highlight2",
         "-edit-link",
         "-simple-page-toc",
-        "injection",
+        "-injection",
         "disqus"
     ],
     "pluginsConfig": {
-        "injection": {
+        "-injection": {
             "js": "./js/format-code.js",
             "css": ""
         },
