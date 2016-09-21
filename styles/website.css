@@ -17,7 +17,8 @@
 }
 
 /* Sidebar Title */
-.book .book-summary ul.summary li a.custom-link {
+.book .book-summary ul.summary li a.custom-link,
+.book .book-summary ul.summary li a.custom-link:hover {
   color: rgba(0, 0, 0, 0);
   background-image: url('https://avatars2.githubusercontent.com/u/22184002?v=3&s=200');
   background-position: center center;
