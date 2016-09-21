@@ -2,7 +2,8 @@
     "plugins": [
         "highlight2",
         "edit-link",
-        "simple-page-toc"
+        "simple-page-toc",
+        "injection"
     ],
     "pluginsConfig": {}
 }
