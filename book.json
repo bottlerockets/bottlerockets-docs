@@ -1,8 +1,9 @@
 {
+    "gitbook": "2.x.x",
     "plugins": [
-        "-edit-link",
+        "edit-link",
         "injection",
-        "-disqus",
+        "disqus",
         "highlight"
     ],
     "pluginsConfig": {
