@@ -15,9 +15,16 @@
   color: #73f;
 }
 
-.book .book-summary ul.summary li a:hover,
+.book .book-summary ul.summary li a:hover {
+  color: rgba(255,255,255,0.9);
+  background: #73a;
+  text-decoration: none;
+}
+
+
 .book .book-summary ul.summary li.active>a {
-  color: #73a;
+  color: #333;
+  background: #f4f4f4;
 }
 
 /* Sidebar Title */
