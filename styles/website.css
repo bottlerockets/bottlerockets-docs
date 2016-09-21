@@ -88,3 +88,21 @@
   font-size: 1.4em;
   color: #969C9A;
 }
+
+.book .book-body .page-wrapper .page-inner section.normal pre, .book .book-body .page-wrapper .page-inner section.normal code {
+  font-size: 1.2em;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal pre, .book .book-body .page-wrapper .page-inner section.normal pre {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.book .book-body .page-wrapper .page-inner section.normal pre, .book .book-body .page-wrapper .page-inner section.normal pre>code {
+  background: #fff;
+  border-width: 0;
+  border-radius: 0;
+}
