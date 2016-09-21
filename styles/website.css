@@ -23,7 +23,7 @@
   display: block;
   background-image: url('https://avatars2.githubusercontent.com/u/22184002?v=3&s=200');
   background-position: center center;
-  background-size: auto;
+  background-size: contain;
   background-repeat: no-repeat;
   margin: 10px;
   height: 150px;
