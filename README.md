@@ -1,7 +1,11 @@
-<h1 style="text-align:center">
-  Bottlerockets
-</h1>
+<p align="center">
+  <img src="https://cldup.com/WXo9ouZhmm.png" alt="Bottlerockets Logo">
+</p>
 
-> Bottlerockets is scalable and optimized node task framework with BDD-style results
+<blockquote>
+  <p align="center">
+    Bottlerockets is scalable and optimized node task framework with BDD-style results
+  </p>
+</blockquote>
 
 [wip]
