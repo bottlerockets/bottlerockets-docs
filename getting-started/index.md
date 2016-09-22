@@ -1,6 +1,4 @@
-# CLI Usage
-
-Initialize `.rockets.js` in the root of your project directory:
+# Getting Started
 
 ```
 bottlerockets init
@@ -22,7 +20,10 @@ This will create a `.bottlerockets.json` file:
 }
 ```
 
-[wip]
+# Running Tasks
+
+Create the rocket file `rockets/example.js` with this example:
+
 ```javascript
 task("welcome")
   .description("This says hello to the enemy")
@@ -41,5 +42,14 @@ task("welcome")
   })
 ```
 
+Then execute your example bottlerocket task in your command line:
 
+```
+bottlerocket welcome --first-name Hunter --last-name Sam
+```
 
+This will output a report of your task to the console.
+
+---
+
+[wip]

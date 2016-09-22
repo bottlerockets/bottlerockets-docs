@@ -1,0 +1,3 @@
+# Philosophy
+
+[wip] work in progress...

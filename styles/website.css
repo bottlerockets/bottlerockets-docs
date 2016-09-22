@@ -63,6 +63,10 @@
   color: #4A4A4A;
 }
 
+.book .markdown-section {
+  padding: 10px;
+}
+
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal blockquote,
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal dl,
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal ol,
@@ -73,6 +77,8 @@
 }
 
 /* Block Quotes */
+
+
 .book .book-body .page-wrapper .page-inner section.normal blockquote {
   border: 2px solid #E4E4E4;
   padding: 15px;
@@ -85,6 +91,14 @@
 
 .book .book-body .page-wrapper .page-inner section.normal blockquote p {
   margin: 0;
+}
+
+.book .book-summary ul.summary li ul {
+  padding-left: 0;
+}
+
+.book .book-summary ul.summary li ul > li > a {
+  padding-left: 30px;
 }
 
 /* Page Titles */

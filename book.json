@@ -3,6 +3,7 @@
     "plugins": [
         "disqus",
         "theme-default",
+        "collapsible-menu",
         "editlink"
     ],
     "pluginsConfig": {
@@ -10,7 +11,7 @@
             "base": "https://github.com/bottlerockets/bottlerockets-docs/tree/master/"
         },
         "disqus": {
-            "shortName": "bottlerockets"
+            "shortName": "bottlerocketsjs"
         }
     }
 }
